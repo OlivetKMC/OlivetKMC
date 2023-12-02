@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlivetKMC
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Machine Leanring/Data Science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on any Data Science Project
 - 📫 How to reach me ... Adetolaolivet2018@gmail.com
